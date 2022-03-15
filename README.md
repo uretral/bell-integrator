@@ -4,6 +4,10 @@
 ```
 yarn install
 ```
+## Источник данных - Json server (по дефолту http://localhost:3000/countries) - запустить перед yarn serve
+```
+json-server info.json
+```
 
 ### Compiles and hot-reloads for development
 ```
